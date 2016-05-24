@@ -1,2 +1,2 @@
 # kidinacar_simulator
-idk
+A kid in a car simulator, pretty self explanatory.
